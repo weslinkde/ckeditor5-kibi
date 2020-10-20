@@ -1,6 +1,7 @@
 node_modules/
 build/
 coverage/
+packages/*/build/
 packages/*/node_modules/
 docs/api/output.json
 external/
